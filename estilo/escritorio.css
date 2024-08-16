@@ -1,0 +1,43 @@
+@media (min-width:1000px){
+    
+    .contenedor{
+        width: 60%;
+        margin: 80px auto;
+    }
+
+    .parte-1{
+        padding: 30px 50px;
+    }
+
+    .join{
+        font-size: 30px;
+        margin-top: 10px;
+    }
+
+    .days{
+        font-size: 18px;
+    }
+
+    .complemento{
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .parte-2{
+        display: flex;
+        width: 100%;
+    }
+
+    .fracmento-1{
+        width: 50%;
+        padding: 30px 50px;
+        border-bottom-left-radius: 10px;
+    }
+
+    .fracmento-2{
+        width: 50%;
+        padding: 30px 50px;
+        border-radius: 0;
+        border-bottom-right-radius: 10px;
+    }
+}
